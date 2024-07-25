@@ -17,7 +17,7 @@ def app():
     #st.image(image, width=200, use_column_width=False)
     #st.title('Sustainable Capacity of Local Organizations to Reach and End the HIV/AIDS Pandemic (SCORE)')
 
-    title = 'Sustainable Capacity of Local Organizations to Reach and End the HIV/AIDS Pandemic (SCORE) -- AIC'
+    title = 'Sustainable Capacity of Local Organizations to Reach and End the HIV/AIDS Pandemic (SCORE) -- ROM'
     col1, col2, col3 = st.columns([4, 1, 5])
 
     with col1:
